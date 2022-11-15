@@ -1,0 +1,3 @@
+C:/Users/ictgi/Desktop/DSA/build/CMakeFiles/algorithms.dir
+C:/Users/ictgi/Desktop/DSA/build/CMakeFiles/edit_cache.dir
+C:/Users/ictgi/Desktop/DSA/build/CMakeFiles/rebuild_cache.dir

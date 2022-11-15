@@ -1,0 +1,5 @@
+C:/Users/ictgi/Desktop/DSA/DataStructureAndAlgorithm/build/CMakeFiles/algorithms.dir
+C:/Users/ictgi/Desktop/DSA/DataStructureAndAlgorithm/build/CMakeFiles/package.dir
+C:/Users/ictgi/Desktop/DSA/DataStructureAndAlgorithm/build/CMakeFiles/package_source.dir
+C:/Users/ictgi/Desktop/DSA/DataStructureAndAlgorithm/build/CMakeFiles/edit_cache.dir
+C:/Users/ictgi/Desktop/DSA/DataStructureAndAlgorithm/build/CMakeFiles/rebuild_cache.dir

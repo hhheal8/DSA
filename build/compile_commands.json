@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/ictgi/Desktop/DSA/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/algorithms.dir/includes_CXX.rsp -g -o CMakeFiles\\algorithms.dir\\main.cpp.obj -c C:\\Users\\ictgi\\Desktop\\DSA\\DataStructureAndAlgorithm\\main.cpp",
+  "file": "C:/Users/ictgi/Desktop/DSA/DataStructureAndAlgorithm/main.cpp"
+}
+]
